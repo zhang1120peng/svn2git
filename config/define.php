@@ -6,4 +6,5 @@
  * 
  */
 define(ZHANG,'zpf');
+define(TWO,'two');
 ?>
